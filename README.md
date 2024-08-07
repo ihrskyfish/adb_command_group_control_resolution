@@ -1,0 +1,2 @@
+# adb_command_group_control_resolution
+adb命令行群控解决方案
